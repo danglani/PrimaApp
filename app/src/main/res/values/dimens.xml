@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="standard_distance">16dp</dimen>
+    <dimen name="text_margin">8dp</dimen>
+    <dimen name="app_bar_height">250dp</dimen>
+    <dimen name="double_distance">32dp</dimen>
+</resources>

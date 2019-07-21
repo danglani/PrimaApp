@@ -1,0 +1,21 @@
+package com.example.primaapp
+
+Implementare una app che che permetta di ottenere informazioni sui paesi del mondo.
+L applicazione dovrà mostrare un elenco di paesi, da cui è possibile accedere a una schermata di dettaglio di un singolo paese in cui potete scegliere liberamente quali informazioni mostrare e in che modo.
+La lista deve essere filtrabile per lingua o per continente. Il filtro può essere un campo di ricerca aperto oppure una selezione da un elenco.
+
+
+
+
+[x] Creo una lista di Paesi partendo da una lista vuota scaricandoli tramite chiamata REST.
+[x] Ordino la lista alfabeticamente
+[x] Effettuo una ricerca per lingua o continente
+    - [x] Inserisco una stringa errata è ottengo 0 risultati
+    - [x] Inserisco una il nome inglese di una lingua e ottengo il numero esatto di Paesi che tra le lingue comprendono quella inserita
+    - [x] Inserisco un continente non presente nella lista dei miei Paesi e ottengo una lista vuota
+    - [x] Inserisco un continente corretto e ottengo i Paesi che fanno parte di quel contitnente
+
+
+
+
+
